@@ -1,0 +1,132 @@
+<template>
+  <div>基本資料</div>
+  <div>*簽約金額須於分項計畫表金額一致</div>
+  <div>*管制目標小計須等於100</div>
+
+  <table>
+    <tr>
+      <th>契約編號</th>
+      <td>10617240691</td>
+    </tr>
+    <tr>
+      <th>計畫中文名稱</th>
+      <td>簽約</td>
+    </tr>
+    <tr>
+      <th>計畫主持人</th>
+      <td>
+        <table>
+          <tr>
+            <th>姓名</th>
+            <td>李二</td>
+            <th>職稱</th>
+            <td>團長</td>
+          </tr>
+          <tr>
+            <th>電話</th>
+            <td>2737-7633</td>
+            <th>傳真</th>
+            <td>2737-7633</td>
+          </tr>
+          <tr>
+            <th>參與人月</th>
+            <td>2.0</td>
+            <th>電子郵件</th>
+            <td>test@gmail.com</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th>計畫連絡人</th>
+      <td>
+        <table>
+          <tr>
+            <th>姓名</th>
+            <td>李二</td>
+            <th>職稱</th>
+            <td>團長</td>
+          </tr>
+          <tr>
+            <th>電話</th>
+            <td>2737-7633</td>
+            <th>傳真</th>
+            <td>2737-7633</td>
+          </tr>
+          <tr>
+            <th>參與人月</th>
+            <td>2.0</td>
+            <th>電子郵件</th>
+            <td>test@gmail.com</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th>經費來源</th>
+      <td>工業局經費(共同承攬)</td>
+    </tr>
+    <tr>
+      <th>計價方式</th>
+      <td>服務成本加公費法</td>
+    </tr>
+    <tr>
+      <th>簽約金額</th>
+      <td>
+        <table>
+          <tr>
+            <th colspan="2">1.政府經費</th>
+            <th>2.自籌款</th>
+            <th>合計(1+2)</th>
+          </tr>
+          <tr>
+            <th>委辦費</th>
+            <td>100000</td>
+            <td rowspan="2">100000</td>
+            <td rowspan="4">203300</td>
+          </tr>
+          <tr>
+            <th>補助款</th>
+            <td>0</td>
+          </tr>
+          <tr>
+            <th>委辦費</th>
+            <td>0</td>
+            <td rowspan="2" class="text-danger">3300</td>
+          </tr>
+          <tr>
+            <th>補助費</th>
+            <td>0</td>
+          </tr>
+          <tr>
+            <th>3.經常支出(限政府預算)</th>
+            <th>4.資本支出(限政府預算)</th>
+            <th>合計(3+4)</th>
+          </tr>
+          <tr>
+            <td>100000</td>
+            <td>0</td>
+            <td>100000</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <th>預期成果</th>
+      <td>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id perspiciatis
+        non incidunt maiores! Voluptatum, officiis eius assumenda qui delectus
+        molestiae laudantium quia, labore, id optio voluptatem inventore cumque
+        quis expedita?
+      </td>
+    </tr>
+    <tr>
+      <th>管制目標</th>
+      <td>預定工作進度</td>
+    </tr>
+  </table>
+</template>
+
+<script setup></script>
+
+<style></style>

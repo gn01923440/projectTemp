@@ -1,0 +1,40 @@
+{
+  "name": "Digital-Industry-Platform",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^35.1.0",
+    "@ckeditor/ckeditor5-vue": "^4.0.1",
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "@fortawesome/fontawesome-free-brands": "^5.0.13",
+    "@fortawesome/fontawesome-free-regular": "^5.0.13",
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@vee-validate/rules": "^4.6.9",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "datatables.net-bs5": "^1.12.1",
+    "datatables.net-select": "^1.4.0",
+    "datatables.net-vue3": "^1.0.0",
+    "jquery": "^3.6.1",
+    "maska": "^1.5.0",
+    "pinia": "^2.0.21",
+    "vee-validate": "^4.6.9",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.5",
+    "vue3-datepicker-lite": "^1.9.6"
+  },
+  "devDependencies": {
+    "@rollup/plugin-inject": "^5.0.2",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "naive-ui": "^2.33.2",
+    "sass": "^1.54.8",
+    "vite": "^3.0.7"
+  }
+}

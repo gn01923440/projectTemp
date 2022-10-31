@@ -1,0 +1,71 @@
+[ 
+
+  { 
+
+    "menuNo":"A", 
+
+    "menuName":"綱要計劃管理", 
+
+    "menuLogo":"fas fa-paper-place", 
+
+    "menuHref":"", 
+
+    "detail":[ 
+
+      { 
+
+        "menuNo":"A01", 
+
+        "menuName":"綱要計劃管理", 
+
+        "menuLogo":"", 
+
+        "menuHref":"/main/GstpPlanSearch" 
+
+      } 
+
+    ] 
+
+  }, 
+
+  { 
+
+    "menuNo":"B", 
+
+    "menuName":"標案計劃管理", 
+
+    "menuLogo":"fas fa-paper-place", 
+
+    "menuHref":"", 
+
+    "detail":[ 
+
+      { 
+
+        "menuNo":"B01", 
+
+        "menuName":"綱要經費切割", 
+
+        "menuLogo":"", 
+
+        "menuHref":"/main/PlanCostCutting" 
+
+      }, 
+
+      { 
+
+        "menuNo":"B02", 
+
+        "menuName":"標案計畫清單", 
+
+        "menuLogo":"", 
+
+        "menuHref":"#" 
+
+      } 
+
+    ] 
+
+  } 
+
+] 

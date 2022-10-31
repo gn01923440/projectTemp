@@ -1,0 +1,18 @@
+const language = {
+  sInfo: "顯示第 _START_ 至 _END_ 項結果，共 _TOTAL_ 項",
+  emptyTable: "無資料...",
+  processing: "處理中...",
+  loadingRecords: "載入中...",
+  zeroRecords: "沒有符合的結果",
+  infoFiltered: "(從 _MAX_ 項結果中過濾)",
+  info: "顯示第 _START_ 至 _END_ 項結果，共 _TOTAL_ 項",
+  infoEmpty: "顯示第 0 至 0 項結果，共 0 項",
+  search: "搜尋:",
+  paginate: {
+    first: "第一頁",
+    previous: "上一頁",
+    next: "下一頁",
+    last: "最後一頁",
+  },
+};
+export { language };

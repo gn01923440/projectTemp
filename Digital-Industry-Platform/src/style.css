@@ -1,0 +1,24 @@
+body{
+  margin: 0px;
+  /* overflow: hidden; */
+
+}
+.deeper-blue{
+  color: #133F58;
+}
+.deeper-blue-border{ 
+  border: 1px solid #133F58;
+}
+.text-title{
+  color: #7995A3;
+}
+/*  */
+button.backing-out{
+  background-color: #206C7C;
+  color: #ffffff;
+}
+button.backing-out:hover{
+  background-color: #28869A;
+  color: #ffffff;
+  /* border: none; */
+}
